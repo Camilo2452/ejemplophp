@@ -1,3 +1,5 @@
 <?php
- phpinfo();
+print("Ejemplo de carga binaria");
+
+phpinfo();
 ?>
