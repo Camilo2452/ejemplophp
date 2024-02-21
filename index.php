@@ -1,5 +1,5 @@
 <?php
-print("Ejemplo de carga binaria");
+print("Hola Mundo");
 
 phpinfo();
 ?>
