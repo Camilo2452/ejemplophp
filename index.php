@@ -1,5 +1,5 @@
 <?php
-print("Hola Mundo");
+print("Hola Putos");
 
 phpinfo();
 ?>
